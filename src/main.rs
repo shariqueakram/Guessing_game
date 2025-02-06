@@ -6,8 +6,10 @@ use std::io;
 fn main() {
     println!("Guess the number between 1 and 20!");
     
-    let secret_number = rand::thread_rng().gen_range(0..=21);
-
+    let secret_number = rand::thread_rng().gen_range(1..=21);
+    //range behavior is the same as python
+    //adjust the range here
+    
     println!("The secret number is: {secret_number}");
 
 loop {    
