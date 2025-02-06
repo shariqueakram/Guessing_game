@@ -5,9 +5,8 @@ A simple number guessing game built in Rust where the player tries to guess a ra
 ## Features
 - The game generates a random number between 1 and 20)
 - The player has to guess the number by entering their guesses
-- After each guess, the game provides feedback indicating whether the guess is too high, too low, or correct
+- After each guess, the game provides feedback indicating whether the guess is too big, too small, or correct
 - The player can keep guessing until they get the correct number
-- The game tracks the number of attempts it takes the player to guess correctly
 
 ## Installation
 
