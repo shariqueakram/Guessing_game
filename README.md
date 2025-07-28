@@ -3,7 +3,7 @@
 A simple number guessing game built in Rust where the player tries to guess a randomly generated number within a specified range
 
 ## Features
-- The game generates a random number between 1 and 20)
+- The game generates a random number between 1 and 20
 - The player has to guess the number by entering their guesses
 - After each guess, the game provides feedback indicating whether the guess is too big, too small, or correct
 - The player can keep guessing until they get the correct number
